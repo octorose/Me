@@ -34,7 +34,7 @@ export default function Contact() {
           <article className='contact_option'>
             <RiWhatsappFill className='contact_icon' />
             <h4>whatsapp</h4>
-            <a href="https://api.whatsapp.com/send?phone=0705287739">+212705287739</a>
+            <a href="https://api.whatsapp.com/send?phone=+212705287739">+212705287739</a>
           </article>
         </div>
         {/* END OF contact options */}
