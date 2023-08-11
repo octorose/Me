@@ -22,13 +22,13 @@ function about() {
                   <article className='about_card'>
                   <CgAwards className='about_icon'/>
                     <h5>Expirence</h5>
-                    <small>4+ years</small>
+                    <small>4 years</small>
                   </article>
 
                   <article className='about_card'>
                   <FiUsers className='about_icon'/>
                     <h5>Clients</h5>
-                    <small>6 clients</small>
+                    <small>4 clients</small>
                   </article>
 
                   <article className='about_card'>
